@@ -79,5 +79,3 @@ zadanie-po-markdown-i-git-indeecdedushka created by GitHub Classroom
 | 2    | **Число цитирования статей** по профилю кафедры, опубликованных штатными преподавателями кафедры и изданных  в научной периодике, индексируемой системой РИНЦ |              9279 | 9228              | 10171             | 12085             |
 | 3    |                   **Индекс Хирша** в РИНЦ                    |               118 | 121               | 128               | 141               |
 | 4    |       **Количество публикаций в зарубежных изданиях**        |                17 | 17                | 27                | 11                |
-
-![img](https://ict.herzen.spb.ru/user/themes/bootstrap/images/rating.png)![Кафедра КТиЭО](https://ict.herzen.spb.ru/user/themes/bootstrap/images/master-photos/gall_img.php1.jpeg)
